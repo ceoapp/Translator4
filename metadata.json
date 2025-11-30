@@ -1,0 +1,5 @@
+{
+  "name": "Translator4",
+  "description": "A high-performance English to Thai translation application powered by Gemini 2.5 Flash, featuring a modern, responsive interface.",
+  "requestFramePermissions": []
+}
